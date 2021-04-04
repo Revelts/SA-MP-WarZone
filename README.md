@@ -1,5 +1,9 @@
 # WarZone SATDM-DM
-.
+This is a San Andreas Team Deathmatch and Deathmatch Gamemode
+I used to develop this gamemode in my spare time
+I've decide to release to sa-mp community and public to let all of you continue it
+Please keep the credits and you can do whatever you want
+
 ### Developed by 
 - Revelt
 
