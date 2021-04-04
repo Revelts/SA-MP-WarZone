@@ -1,0 +1,77 @@
+<map edf:definitions="editor_main">
+    <pickup id="pickup (armor) (1)" type="armor" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2545" posY="-1624.2998" posZ="10.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Tec-9) (1)" type="32" interior="0" amount="500" respawn="30000" dimension="0" alpha="255" posX="2528.6001" posY="-1677.6" posZ="19.9" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Colt 45) (1)" type="22" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2535.8999" posY="-1632.4" posZ="13.8" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Sniper) (1)" type="34" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2509.3" posY="-1722" posZ="18.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Sniper) (2)" type="34" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2070.7" posY="-1826.6" posZ="22.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (armor) (2)" type="armor" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1580" posY="-1634.7" posZ="13.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Nightstick) (1)" type="3" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1611.2" posY="-1720.9" posZ="6.2" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Minigun) (1)" type="38" interior="0" amount="50" respawn="30000" dimension="0" alpha="255" posX="1479.7" posY="-1640.2" posZ="14.1" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Tec-9) (2)" type="32" interior="0" amount="500" respawn="30000" dimension="0" alpha="255" posX="1907.5" posY="-2020.3" posZ="13.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (1)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2140.2" posY="-2283.2" posZ="20.7" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (armor) (3)" type="armor" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2139.7" posY="-2289" posZ="20.7" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Bat) (1)" type="5" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2284.7" posY="-1643.6" posZ="15.2" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (AK-47) (1)" type="30" interior="0" amount="300" respawn="30000" dimension="0" alpha="255" posX="1715" posY="-1912" posZ="13.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Sniper) (3)" type="34" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="730.59998" posY="-1276.1" posZ="17.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (MP5) (1)" type="29" interior="0" amount="300" respawn="30000" dimension="0" alpha="255" posX="723.29999" posY="-1493.5" posZ="1.9" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Minigun) (2)" type="38" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="243.8" posY="-1097.1" posZ="87.3" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Rocket Launcher) (1)" type="35" interior="0" amount="25" respawn="30000" dimension="0" alpha="255" posX="1141" posY="-2076.3" posZ="69" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Sniper) (4)" type="34" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1117.8" posY="-2036.9" posZ="78.8" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Parachute) (1)" type="46" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1526.4" posY="-1346.5" posZ="330" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Sniper) (5)" type="34" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1405.2" posY="-807.20001" posZ="85" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (MP5) (2)" type="29" interior="0" amount="300" respawn="30000" dimension="0" alpha="255" posX="1267.4" posY="-777.59998" posZ="96" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (AK-47) (2)" type="30" interior="0" amount="300" respawn="30000" dimension="0" alpha="255" posX="1292.3" posY="-788.40002" posZ="96.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Flamethrower) (1)" type="37" interior="0" amount="300" respawn="30000" dimension="0" alpha="255" posX="2798.3999" posY="-1183" posZ="25.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Rocket Launcher) (2)" type="35" interior="0" amount="25" respawn="30000" dimension="0" alpha="255" posX="2590.8999" posY="-1150.3" posZ="66.7" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (MP5) (3)" type="29" interior="0" amount="500" respawn="30000" dimension="0" alpha="255" posX="2191.3" posY="-1167.2" posZ="33.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Tec-9) (3)" type="32" interior="0" amount="500" respawn="30000" dimension="0" alpha="255" posX="1975.6" posY="-1234.7" posZ="20" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Rocket Launcher) (3)" type="35" interior="0" amount="25" respawn="30000" dimension="0" alpha="255" posX="1973.6" posY="-1197.8" posZ="16.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (M4) (1)" type="31" interior="0" amount="500" respawn="30000" dimension="0" alpha="255" posX="1406" posY="-1300.3" posZ="13.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (2)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1177.1" posY="-1333.7" posZ="14" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (3)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="925.29999" posY="-1356" posZ="13.4" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (4)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1033.3" posY="-1338.6" posZ="13.7" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (5)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="802.40002" posY="-1630.3" posZ="13.4" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (6)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2103.1001" posY="-1803.5" posZ="13.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (armor) (4)" type="armor" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2007.7" posY="-2066.7" posZ="17.4" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (7)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2205.5" posY="-2212.7" posZ="15.2" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (8)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2198" posY="-2220.1001" posZ="15.2" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (9)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2191.2" posY="-2227.8" posZ="15.2" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (10)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2213.1001" posY="-2206.3" posZ="15.2" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (armor) (5)" type="armor" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2176.3" posY="-2235.5" posZ="15.8" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Katana) (1)" type="8" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2252.2" posY="-2280.7" posZ="14.8" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Rocket Launcher) (4)" type="35" interior="0" amount="25" respawn="30000" dimension="0" alpha="255" posX="1235.2" posY="-1777.2" posZ="49.3" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Sniper) (6)" type="34" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1482.7" posY="-1389.2" posZ="62.4" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (armor) (6)" type="armor" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="613.29999" posY="-609.59998" posZ="17.2" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Minigun) (3)" type="38" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="664.90002" posY="-569.20001" posZ="16.3" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Chainsaw) (1)" type="9" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1105.6" posY="-301.79999" posZ="74.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (11)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1364.9" posY="249.60001" posZ="19.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (12)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2335.2" posY="75.5" posZ="26.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (armor) (7)" type="armor" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2329.8" posY="62.9" posZ="32" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Grenade) (1)" type="16" interior="0" amount="50" respawn="30000" dimension="0" alpha="255" posX="2161.5" posY="-103.3" posZ="2.8" rotX="0" rotY="0" rotZ="0"></pickup>
+    <object id="safe_closed" breakable="true" interior="0" alpha="255" dimension="0" model="2332" scale="1" doublesided="false" collisions="true" frozen="false" posX="2305.7" posY="-5.7" posZ="26.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="safe_opened" breakable="true" interior="0" alpha="255" dimension="0" model="1829" scale="1" doublesided="false" collisions="true" frozen="false" posX="2306.1001" posY="-4.6" posZ="26.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="safe_empty" breakable="true" interior="0" alpha="255" dimension="0" model="2003" scale="1" doublesided="false" collisions="true" frozen="false" posX="2305.6001" posY="-3.5" posZ="26.2" rotX="0" rotY="0" rotZ="90"></object>
+    <pickup id="pickup (Shovel) (1)" type="6" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2240.3" posY="-70.9" posZ="26.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Grenade) (2)" type="16" interior="0" amount="50" respawn="30000" dimension="0" alpha="255" posX="1862.6" posY="-1861.9" posZ="13.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (15)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1197.1" posY="-919" posZ="43.1" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Molotov) (1)" type="18" interior="0" amount="50" respawn="30000" dimension="0" alpha="255" posX="1785.8" posY="-1223.2" posZ="16.9" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (AK-47) (3)" type="30" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2512.8999" posY="-957.29999" posZ="82.3" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (armor) (8)" type="armor" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2485.5" posY="-1711.9" posZ="13.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Shovel) (2)" type="6" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="2456.6001" posY="-1708.3" posZ="13.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Uzi) (1)" type="28" interior="0" amount="500" respawn="30000" dimension="0" alpha="255" posX="2397.5" posY="-1716" posZ="13.6" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Rocket Launcher) (5)" type="35" interior="0" amount="50" respawn="30000" dimension="0" alpha="255" posX="1488.8" posY="-1722.9" posZ="8.2" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (MP5) (4)" type="29" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1624.1" posY="-1080.5" posZ="23.9" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (AK-47) (4)" type="30" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1625.5" posY="-1040.9" posZ="23.9" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Sniper) (7)" type="34" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1083.3" posY="-2036.7" posZ="69" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Rocket Launcher) (6)" type="35" interior="0" amount="25" respawn="30000" dimension="0" alpha="255" posX="835.40002" posY="-2065.7" posZ="12.9" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (armor) (9)" type="armor" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="674.5" posY="-1870" posZ="5.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (M4) (2)" type="31" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="673.79999" posY="-1864.7" posZ="5.5" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (health) (13)" type="health" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="389.20001" posY="-2073.1001" posZ="7.8" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Combat Shotgun) (1)" type="27" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="401.60001" posY="-2069.3" posZ="10.7" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (AK-47) (5)" type="30" interior="0" amount="500" respawn="30000" dimension="0" alpha="255" posX="153.8" posY="-1961.8" posZ="3.8" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Sniper) (8)" type="34" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="349.70001" posY="-1305.3" posZ="50.8" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Fire Extinguisher) (1)" type="42" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="1939.2" posY="-1772.7" posZ="13.4" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (M4) (3)" type="31" interior="0" amount="500" respawn="30000" dimension="0" alpha="255" posX="2285.8" posY="-1119.7" posZ="38" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (Uzi) (2)" type="28" interior="0" amount="500" respawn="30000" dimension="0" alpha="255" posX="815.70001" posY="-1108.4" posZ="25.8" rotX="0" rotY="0" rotZ="0"></pickup>
+    <pickup id="pickup (armor) (10)" type="armor" interior="0" amount="100" respawn="30000" dimension="0" alpha="255" posX="815.59998" posY="-1093.3" posZ="25.8" rotX="0" rotY="0" rotZ="0"></pickup>
+</map>
