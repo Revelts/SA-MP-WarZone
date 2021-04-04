@@ -8,7 +8,7 @@ Please keep the credits and you can do whatever you want
 - Revelt
 
 ### Gamemode based 
-- SATDM - DM Scrath
+- SATDM - DM Scratch
 
 ### Latest version 
 - WarZone V1.0
