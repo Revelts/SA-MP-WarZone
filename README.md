@@ -13,6 +13,25 @@ Please keep the credits and you can do whatever you want
 ### Latest version 
 - WarZone V1.0
 
+### Features
+- MySQL Saving
+- Server-side Health, Armour, Money and Weapon
+- Server Script Modular
+- Clan / Clan Tag
+- Spawn Player Vehicle (NOT OWNED VEHICLE)
+- Dynamic Set-Team /setteam
+- Weapon Pickup
+- Anti Cheat (Nex-AC)
+- Kick/Ban System
+- Admin System
+- Upgrade Points (Upgrade Health and Armour points) It will allow player upgrade their point for maximum health/armour
+- Experience System
+- Headshot Rating System
+- Kill Death Rating System
+- Class System '/takeclass'
+- Each Class have their own abilities
+
+
 ### Plugin Version
 - crashdetect (`v4.20`) (https://github.com/Zeex/samp-plugin-crashdetect/releases/tag/v4.20)
 - streamer (`v2.9.4`) (https://github.com/samp-incognito/samp-streamer-plugin/releases/tag/v2.9.4)
